@@ -44,7 +44,7 @@ An interactive Coffee Sales Dashboard built in Power BI to analyze sales perform
 - Developed a fully interactive reporting interface
 
 ## Dashboard
-<img width="1803" height="841" alt="Coffee Sales Dashboard" src="#" />
+<img width="1803" height="841" alt="Coffee Sales Dashboard" src="https://github.com/fahamidamahi/Coffee_Project/blob/master/final%20dashboard.png" />
 
 ## Business Insights Derived
 - March recorded the highest sales volume, indicating a strong seasonal or promotional spike.
