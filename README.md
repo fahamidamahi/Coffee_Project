@@ -3,7 +3,7 @@
 An interactive Coffee Sales Dashboard built in Power BI to analyze sales performance, product contribution, and customer purchasing behavior across different time segments. The dashboard integrates multiple KPIs, applies data transformation processes, and delivers dynamic business insights through slicer-driven interactivity.
 
 ## Dataset
-- <a href="#">Dataset</a>
+- <a href="https://github.com/fahamidamahi/Coffee_Project/blob/master/Coffe_sales.xlsx">Dataset</a>
 
 ## Problem Statement
 - KPIs at the top: Total Sales Revenue, Total Transactions, and Average Price per Transaction.
